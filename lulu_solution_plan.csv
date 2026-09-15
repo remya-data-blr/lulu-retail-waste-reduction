@@ -1,0 +1,762 @@
+Order_ID,Store_ID,Product,Category,Supplier,Stock_Qty,Days_To_Expiry,Waste_Risk,Daily_Sales,Expiry_Date,Action,Donation_Plan
+LULU-ORD-1003,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,442,3,HIGH,33,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1012,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,206,5,HIGH,179,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1019,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,284,5,HIGH,155,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1041,LULU-TVM-01,Chicken 1kg,Meat,Suguna,356,2,HIGH,151,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1042,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,235,1,HIGH,191,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1043,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,244,5,HIGH,94,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1049,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,110,4,HIGH,196,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1053,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,110,4,HIGH,13,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1059,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,565,4,HIGH,24,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1076,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,267,4,HIGH,172,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1077,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,293,3,HIGH,95,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1079,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,584,1,HIGH,29,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1080,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,568,3,HIGH,159,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1082,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,383,3,HIGH,63,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1091,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,349,2,HIGH,76,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1092,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,281,3,HIGH,162,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1107,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,160,2,HIGH,72,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1124,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,498,1,HIGH,86,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1131,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,196,4,HIGH,107,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1136,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,214,2,HIGH,49,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1145,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,359,1,HIGH,135,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1154,LULU-TVM-01,Paneer 200g,Dairy,Milma,579,1,HIGH,58,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1181,LULU-CLT-02,Paneer 200g,Dairy,Milma,474,5,HIGH,77,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1215,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,517,3,HIGH,138,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1217,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,477,1,HIGH,114,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1223,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,316,2,HIGH,93,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1230,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,171,5,HIGH,98,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1235,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,291,1,HIGH,185,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1265,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,144,1,HIGH,70,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1266,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,341,2,HIGH,77,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1284,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,443,4,HIGH,163,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1289,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,580,2,HIGH,178,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1301,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,325,3,HIGH,111,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1306,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,372,5,HIGH,199,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1307,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,456,2,HIGH,29,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1357,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,239,2,HIGH,35,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1370,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,491,3,HIGH,105,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1375,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,148,5,HIGH,19,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1376,LULU-CLT-02,Paneer 200g,Dairy,Milma,216,3,HIGH,20,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1378,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,269,3,HIGH,83,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1389,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,173,2,HIGH,165,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1393,LULU-TVM-01,Bread Loaf,Bakery,Modern,464,5,HIGH,45,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1399,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,148,5,HIGH,54,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1404,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,515,2,HIGH,151,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1433,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,371,4,HIGH,82,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1438,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,305,5,HIGH,139,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1475,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,190,3,HIGH,136,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1476,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,306,3,HIGH,86,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1499,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,466,4,HIGH,43,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1504,LULU-CLT-01,Chicken 1kg,Meat,Suguna,564,4,HIGH,130,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1516,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,260,3,HIGH,122,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1526,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,484,4,HIGH,115,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1560,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,497,4,HIGH,189,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1570,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,247,5,HIGH,164,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1577,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,103,1,HIGH,123,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1582,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,404,1,HIGH,115,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1601,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,396,5,HIGH,163,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1603,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,566,3,HIGH,189,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1615,LULU-CLT-01,Chicken 1kg,Meat,Suguna,317,3,HIGH,15,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1634,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,377,1,HIGH,44,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1671,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,499,5,HIGH,108,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1688,LULU-CLT-01,Paneer 200g,Dairy,Milma,230,3,HIGH,111,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1694,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,254,4,HIGH,32,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1706,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,260,3,HIGH,103,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1709,LULU-TVM-01,Bread Loaf,Bakery,Modern,287,5,HIGH,105,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1711,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,538,3,HIGH,27,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1713,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,477,1,HIGH,61,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1718,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,353,1,HIGH,198,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1720,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,513,4,HIGH,192,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1721,LULU-CLT-02,Paneer 200g,Dairy,Milma,105,3,HIGH,143,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1724,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,591,4,HIGH,179,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1739,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,275,5,HIGH,26,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1751,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,194,2,HIGH,162,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1761,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,234,2,HIGH,132,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1777,LULU-CLT-01,Paneer 200g,Dairy,Milma,120,1,HIGH,108,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1781,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,311,2,HIGH,76,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1784,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,504,2,HIGH,177,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1788,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,108,4,HIGH,156,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1815,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,421,3,HIGH,94,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1824,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,215,4,HIGH,18,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1830,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,301,2,HIGH,22,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1843,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,153,2,HIGH,85,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-1885,LULU-CLT-01,Chicken 1kg,Meat,Suguna,533,5,HIGH,75,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1910,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,432,3,HIGH,150,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-1937,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,158,4,HIGH,61,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1944,LULU-CLT-01,Bread Loaf,Bakery,Modern,575,4,HIGH,200,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-1955,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,543,5,HIGH,50,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-1970,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,349,3,HIGH,28,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2009,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,247,5,HIGH,104,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2025,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,160,4,HIGH,76,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2032,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,121,2,HIGH,143,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2036,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,562,1,HIGH,143,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2037,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,389,3,HIGH,119,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2058,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,459,1,HIGH,178,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2067,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,598,1,HIGH,54,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2098,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,494,1,HIGH,117,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2117,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,107,5,HIGH,150,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2122,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,184,2,HIGH,179,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2129,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,320,1,HIGH,143,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2138,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,202,5,HIGH,44,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2141,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,338,2,HIGH,22,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2144,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,164,1,HIGH,65,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2157,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,258,1,HIGH,158,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2164,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,266,3,HIGH,190,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2168,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,174,5,HIGH,49,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2172,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,338,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2183,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,387,4,HIGH,78,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2209,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,546,3,HIGH,148,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2211,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,166,4,HIGH,124,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2228,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,492,2,HIGH,63,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2241,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,170,2,HIGH,185,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2243,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,292,4,HIGH,109,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2256,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,199,2,HIGH,167,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2262,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,428,1,HIGH,115,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2276,LULU-CLT-02,Bread Loaf,Bakery,Modern,471,2,HIGH,126,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2281,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,399,3,HIGH,95,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2285,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,217,1,HIGH,74,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2296,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,378,3,HIGH,86,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2306,LULU-CLT-01,Paneer 200g,Dairy,Milma,208,1,HIGH,16,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2310,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,270,5,HIGH,86,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2314,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,495,3,HIGH,133,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2330,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,328,3,HIGH,32,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2331,LULU-CLT-01,Bread Loaf,Bakery,Modern,488,3,HIGH,143,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2339,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,185,5,HIGH,166,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2369,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,311,4,HIGH,150,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2393,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,276,4,HIGH,158,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2394,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,596,4,HIGH,198,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2396,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,527,5,HIGH,74,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2418,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,104,4,HIGH,178,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2430,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,466,2,HIGH,48,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2444,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,470,2,HIGH,96,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2445,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,355,3,HIGH,40,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2447,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,248,5,HIGH,198,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2456,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,353,5,HIGH,80,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2473,LULU-CLT-01,Bread Loaf,Bakery,Modern,474,3,HIGH,199,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2492,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,437,3,HIGH,130,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2495,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,581,1,HIGH,65,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2501,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,553,3,HIGH,119,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2503,LULU-TVM-01,Chicken 1kg,Meat,Suguna,353,4,HIGH,182,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2541,LULU-CLT-01,Paneer 200g,Dairy,Milma,210,2,HIGH,147,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2551,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,353,5,HIGH,106,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2576,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,144,2,HIGH,99,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2611,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,147,2,HIGH,198,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2614,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,108,5,HIGH,136,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2642,LULU-TVM-01,Bread Loaf,Bakery,Modern,289,5,HIGH,145,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2660,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,315,5,HIGH,103,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2679,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,528,5,HIGH,117,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2682,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,149,1,HIGH,61,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2716,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,197,3,HIGH,76,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2726,LULU-CLT-01,Bread Loaf,Bakery,Modern,167,2,HIGH,127,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2728,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,347,3,HIGH,125,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2730,LULU-CLT-01,Paneer 200g,Dairy,Milma,340,4,HIGH,150,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2748,LULU-CLT-01,Chicken 1kg,Meat,Suguna,525,2,HIGH,199,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2767,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,307,3,HIGH,112,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2769,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,247,4,HIGH,14,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2785,LULU-TVM-01,Bread Loaf,Bakery,Modern,373,3,HIGH,78,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2832,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,306,3,HIGH,49,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2834,LULU-CLT-02,Paneer 200g,Dairy,Milma,507,2,HIGH,46,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2835,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,441,4,HIGH,82,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2837,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,367,5,HIGH,116,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2843,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,563,3,HIGH,198,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2848,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,524,2,HIGH,178,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2849,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,194,2,HIGH,62,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2874,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,586,5,HIGH,32,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2880,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,497,1,HIGH,182,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2897,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,474,1,HIGH,174,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2905,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,109,2,HIGH,120,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2908,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,252,5,HIGH,168,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-2925,LULU-TVM-01,Paneer 200g,Dairy,Milma,387,1,HIGH,160,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2932,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,234,1,HIGH,187,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2949,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,263,4,HIGH,42,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-2977,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,322,1,HIGH,178,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-2980,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,591,3,HIGH,49,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2986,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,191,3,HIGH,135,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-2992,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,499,5,HIGH,62,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3014,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,184,2,HIGH,35,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3016,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,182,5,HIGH,183,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3023,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,441,2,HIGH,96,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3025,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,181,3,HIGH,141,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3029,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,187,1,HIGH,177,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3032,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,387,3,HIGH,65,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3080,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,325,1,HIGH,135,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3081,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,109,5,HIGH,144,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3089,LULU-TVM-01,Chicken 1kg,Meat,Suguna,360,2,HIGH,70,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3091,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,282,1,HIGH,20,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3097,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,112,1,HIGH,188,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3098,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,152,2,HIGH,41,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3120,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,328,4,HIGH,147,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3146,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,386,1,HIGH,39,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3155,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,194,1,HIGH,124,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3156,LULU-CLT-02,Bread Loaf,Bakery,Modern,135,3,HIGH,157,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3164,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,252,3,HIGH,46,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3167,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,442,5,HIGH,75,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3173,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,398,2,HIGH,73,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3175,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,426,5,HIGH,173,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3177,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,290,1,HIGH,106,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3196,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,204,1,HIGH,189,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3206,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,374,1,HIGH,127,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3216,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,301,3,HIGH,111,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3217,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,349,3,HIGH,180,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3245,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,133,3,HIGH,177,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3248,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,167,3,HIGH,59,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3253,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,306,3,HIGH,25,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3257,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,198,1,HIGH,156,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3266,LULU-CLT-01,Paneer 200g,Dairy,Milma,342,4,HIGH,101,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3276,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,202,5,HIGH,28,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3278,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,150,1,HIGH,35,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3279,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,403,2,HIGH,13,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3287,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,155,1,HIGH,16,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3298,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,499,5,HIGH,157,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3308,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,122,4,HIGH,102,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3338,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,163,2,HIGH,107,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3349,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,175,5,HIGH,157,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3359,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,418,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3365,LULU-TVM-01,Paneer 200g,Dairy,Milma,475,3,HIGH,49,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3373,LULU-CLT-01,Paneer 200g,Dairy,Milma,198,4,HIGH,119,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3382,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,109,3,HIGH,200,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3385,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,600,1,HIGH,103,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3410,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,457,1,HIGH,49,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3418,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,105,5,HIGH,102,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3422,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,315,1,HIGH,178,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3424,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,569,1,HIGH,143,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3441,LULU-CLT-02,Bread Loaf,Bakery,Modern,261,5,HIGH,178,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3445,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,585,5,HIGH,82,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3460,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,115,2,HIGH,22,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3463,LULU-CLT-01,Bread Loaf,Bakery,Modern,560,1,HIGH,76,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3464,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,123,4,HIGH,29,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3482,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,256,2,HIGH,57,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3497,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,304,1,HIGH,57,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3500,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,155,1,HIGH,119,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3524,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,136,4,HIGH,88,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3544,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,481,4,HIGH,24,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3547,LULU-CLT-02,Chicken 1kg,Meat,Suguna,533,4,HIGH,142,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3563,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,408,1,HIGH,87,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3564,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,465,3,HIGH,45,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3573,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,423,5,HIGH,17,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3584,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,153,1,HIGH,114,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3585,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,569,5,HIGH,57,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3588,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,151,5,HIGH,119,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3598,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,352,4,HIGH,62,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3601,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,364,5,HIGH,163,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3627,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,126,2,HIGH,18,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3632,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,555,4,HIGH,18,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3633,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,366,2,HIGH,96,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3634,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,231,2,HIGH,195,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3639,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,145,1,HIGH,184,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3645,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,460,1,HIGH,19,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3653,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,334,3,HIGH,193,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3655,LULU-TVM-01,Bread Loaf,Bakery,Modern,563,3,HIGH,70,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3656,LULU-TVM-01,Bread Loaf,Bakery,Modern,121,5,HIGH,123,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3657,LULU-CLT-02,Chicken 1kg,Meat,Suguna,533,5,HIGH,62,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3662,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,387,3,HIGH,48,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3683,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,180,5,HIGH,141,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3693,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,359,4,HIGH,142,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3703,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,510,2,HIGH,62,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3708,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,237,5,HIGH,50,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3727,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,250,2,HIGH,78,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3742,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,506,3,HIGH,82,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3761,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,248,4,HIGH,74,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3792,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,341,5,HIGH,45,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3800,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,192,2,HIGH,129,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3805,LULU-TVM-01,Paneer 200g,Dairy,Milma,524,1,HIGH,79,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3810,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,388,2,HIGH,192,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3818,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,464,3,HIGH,165,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3851,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,351,4,HIGH,89,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-3865,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,417,5,HIGH,45,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3866,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,202,3,HIGH,87,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3869,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,502,3,HIGH,117,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3891,LULU-CLT-02,Bread Loaf,Bakery,Modern,391,3,HIGH,165,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3903,LULU-TVM-01,Bread Loaf,Bakery,Modern,236,5,HIGH,83,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3931,LULU-TVM-01,Chicken 1kg,Meat,Suguna,389,2,HIGH,177,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3938,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,483,5,HIGH,18,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-3941,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,556,2,HIGH,133,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3955,LULU-CLT-02,Paneer 200g,Dairy,Milma,243,2,HIGH,159,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3961,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,398,1,HIGH,97,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-3970,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,191,3,HIGH,78,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-3985,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,509,1,HIGH,140,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4005,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,491,3,HIGH,186,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4014,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,153,5,HIGH,102,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4019,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,551,4,HIGH,105,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4029,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,409,2,HIGH,67,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4038,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,373,2,HIGH,122,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4039,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,394,2,HIGH,200,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4040,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,399,4,HIGH,122,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4050,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,492,2,HIGH,196,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4053,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,491,3,HIGH,162,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4059,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,349,2,HIGH,18,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4060,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,427,3,HIGH,106,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4088,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,237,2,HIGH,197,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4090,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,547,4,HIGH,102,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4101,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,368,5,HIGH,80,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4104,LULU-CLT-01,Paneer 200g,Dairy,Milma,345,1,HIGH,143,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4108,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,288,3,HIGH,75,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4112,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,441,4,HIGH,81,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4124,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,195,2,HIGH,35,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4125,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,432,2,HIGH,74,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4158,LULU-TVM-01,Chicken 1kg,Meat,Suguna,185,2,HIGH,124,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4192,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,376,4,HIGH,178,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4201,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,550,3,HIGH,32,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4210,LULU-CLT-02,Chicken 1kg,Meat,Suguna,307,1,HIGH,178,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4219,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,510,5,HIGH,147,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4237,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,557,2,HIGH,194,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4239,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,249,1,HIGH,10,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4248,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,157,3,HIGH,115,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4258,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,432,4,HIGH,65,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4301,LULU-CLT-02,Chicken 1kg,Meat,Suguna,134,4,HIGH,61,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4347,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,282,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4361,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,340,2,HIGH,23,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4366,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,592,3,HIGH,24,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4367,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,518,5,HIGH,45,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4371,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,568,4,HIGH,116,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4379,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,573,5,HIGH,61,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4383,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,559,1,HIGH,82,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4387,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,472,2,HIGH,164,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4393,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,327,1,HIGH,56,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4407,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,501,5,HIGH,65,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4413,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,468,1,HIGH,154,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4423,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,178,3,HIGH,139,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4435,LULU-CLT-01,Chicken 1kg,Meat,Suguna,205,2,HIGH,17,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4448,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,490,3,HIGH,89,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4480,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,535,5,HIGH,52,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4482,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,426,4,HIGH,20,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4483,LULU-CLT-02,Bread Loaf,Bakery,Modern,414,2,HIGH,181,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4508,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,412,1,HIGH,58,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4516,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,219,3,HIGH,25,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4520,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,165,2,HIGH,159,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4533,LULU-TVM-01,Bread Loaf,Bakery,Modern,157,5,HIGH,188,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4573,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,155,2,HIGH,122,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4584,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,390,2,HIGH,113,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4586,LULU-TVM-01,Paneer 200g,Dairy,Milma,386,4,HIGH,159,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4596,LULU-CLT-02,Paneer 200g,Dairy,Milma,504,5,HIGH,129,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4602,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,241,2,HIGH,133,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4610,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,331,4,HIGH,113,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4622,LULU-TVM-01,Bread Loaf,Bakery,Modern,112,3,HIGH,31,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4625,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,548,5,HIGH,82,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4628,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,300,3,HIGH,96,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4644,LULU-CLT-02,Bread Loaf,Bakery,Modern,161,3,HIGH,71,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4646,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,437,3,HIGH,171,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4658,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,281,1,HIGH,68,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4660,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,450,4,HIGH,80,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4671,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,134,1,HIGH,26,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4679,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,369,2,HIGH,109,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4685,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,373,2,HIGH,176,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4686,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,435,1,HIGH,128,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4705,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,150,5,HIGH,160,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4724,LULU-CLT-02,Chicken 1kg,Meat,Suguna,598,1,HIGH,193,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4731,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,268,1,HIGH,128,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4746,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,551,1,HIGH,15,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4756,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,430,3,HIGH,129,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4757,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,557,5,HIGH,184,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4763,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,256,3,HIGH,186,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4775,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,397,1,HIGH,105,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4783,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,229,2,HIGH,113,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4787,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,148,4,HIGH,56,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4789,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,566,5,HIGH,147,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4792,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,192,3,HIGH,135,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4794,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,462,5,HIGH,194,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4796,LULU-CLT-01,Paneer 200g,Dairy,Milma,355,2,HIGH,12,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4804,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,544,5,HIGH,54,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4806,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,490,3,HIGH,121,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4818,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,284,4,HIGH,110,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4847,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,241,3,HIGH,18,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4851,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,223,2,HIGH,160,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4853,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,546,1,HIGH,186,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4868,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,455,3,HIGH,187,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4870,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,207,4,HIGH,62,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4878,LULU-CLT-01,Paneer 200g,Dairy,Milma,307,3,HIGH,71,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4879,LULU-TVM-01,Paneer 200g,Dairy,Milma,577,1,HIGH,124,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4892,LULU-TVM-01,Chicken 1kg,Meat,Suguna,311,2,HIGH,89,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4901,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,584,2,HIGH,10,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4923,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,286,2,HIGH,122,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4930,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,279,5,HIGH,60,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4958,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,383,1,HIGH,148,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4961,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,384,1,HIGH,148,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-4963,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,163,5,HIGH,176,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-4968,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,139,3,HIGH,18,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4983,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,515,3,HIGH,91,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-4985,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,387,4,HIGH,17,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-4987,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,592,3,HIGH,182,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5014,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,334,3,HIGH,168,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5018,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,584,4,HIGH,197,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5019,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,499,1,HIGH,102,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5030,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,149,1,HIGH,20,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5053,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,594,3,HIGH,46,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5057,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,189,5,HIGH,185,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5059,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,200,2,HIGH,56,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5068,LULU-TVM-01,Paneer 200g,Dairy,Milma,263,2,HIGH,95,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5077,LULU-TVM-01,Bread Loaf,Bakery,Modern,416,4,HIGH,58,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5082,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,413,4,HIGH,61,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5086,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,105,2,HIGH,174,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5100,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,229,3,HIGH,156,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5115,LULU-CLT-02,Chicken 1kg,Meat,Suguna,169,2,HIGH,133,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5130,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,578,4,HIGH,141,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5134,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,538,3,HIGH,13,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5137,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,360,4,HIGH,31,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5138,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,530,3,HIGH,125,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5139,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,262,4,HIGH,192,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5146,LULU-CLT-02,Paneer 200g,Dairy,Milma,518,2,HIGH,40,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5159,LULU-TVM-01,Paneer 200g,Dairy,Milma,523,3,HIGH,86,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5169,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,466,1,HIGH,192,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5171,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,488,4,HIGH,127,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5183,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,186,4,HIGH,76,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5199,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,449,2,HIGH,125,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5214,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,264,3,HIGH,92,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5219,LULU-TVM-01,Paneer 200g,Dairy,Milma,290,2,HIGH,116,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5252,LULU-CLT-01,Bread Loaf,Bakery,Modern,306,4,HIGH,111,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5269,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,555,4,HIGH,151,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5273,LULU-CLT-01,Bread Loaf,Bakery,Modern,284,4,HIGH,183,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5282,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,372,1,HIGH,25,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5284,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,209,3,HIGH,165,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5289,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,536,5,HIGH,98,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5311,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,189,1,HIGH,26,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5315,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,134,1,HIGH,31,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5322,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,213,2,HIGH,113,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5335,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,480,1,HIGH,69,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5345,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,152,5,HIGH,102,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5358,LULU-TVM-01,Bread Loaf,Bakery,Modern,518,1,HIGH,14,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5363,LULU-CLT-01,Bread Loaf,Bakery,Modern,296,1,HIGH,32,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5366,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,439,5,HIGH,148,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5373,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,214,3,HIGH,128,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5388,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,552,4,HIGH,79,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5389,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,455,3,HIGH,124,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5394,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,352,4,HIGH,123,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5403,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,408,4,HIGH,53,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5411,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,357,3,HIGH,82,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5419,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,448,3,HIGH,166,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5440,LULU-CLT-01,Bread Loaf,Bakery,Modern,107,5,HIGH,198,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5441,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,595,3,HIGH,183,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5454,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,139,1,HIGH,39,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5465,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,539,3,HIGH,96,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5469,LULU-CLT-01,Bread Loaf,Bakery,Modern,328,4,HIGH,141,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5482,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,353,4,HIGH,74,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5483,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,211,1,HIGH,98,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5491,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,292,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5530,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,255,1,HIGH,80,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5553,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,141,5,HIGH,57,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5564,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,188,1,HIGH,103,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5578,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,530,2,HIGH,165,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5581,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,424,4,HIGH,56,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5592,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,497,3,HIGH,91,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5593,LULU-CLT-02,Paneer 200g,Dairy,Milma,592,5,HIGH,170,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5599,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,199,4,HIGH,10,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5605,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,425,3,HIGH,143,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5606,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,230,5,HIGH,119,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5631,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,220,4,HIGH,161,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5645,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,239,4,HIGH,94,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5654,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,260,1,HIGH,87,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5662,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,233,5,HIGH,190,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5676,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,202,3,HIGH,63,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5696,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,392,4,HIGH,194,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5700,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,280,4,HIGH,102,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5709,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,535,3,HIGH,188,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5711,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,475,4,HIGH,84,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5717,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,177,2,HIGH,84,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5722,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,463,2,HIGH,138,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5732,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,167,2,HIGH,30,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5734,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,147,2,HIGH,156,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5740,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,194,3,HIGH,106,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5768,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,429,2,HIGH,190,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5782,LULU-CLT-01,Paneer 200g,Dairy,Milma,121,1,HIGH,58,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5805,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,321,5,HIGH,156,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5814,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,556,2,HIGH,84,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5816,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,413,1,HIGH,53,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5821,LULU-TVM-01,Chicken 1kg,Meat,Suguna,236,1,HIGH,148,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5826,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,389,1,HIGH,10,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5829,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,218,2,HIGH,109,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5832,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,593,4,HIGH,132,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5839,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,318,3,HIGH,46,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5844,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,460,2,HIGH,137,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5873,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,447,3,HIGH,131,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5914,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,561,2,HIGH,13,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5938,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,429,1,HIGH,73,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5940,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,272,5,HIGH,29,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5945,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,229,1,HIGH,46,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5950,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,598,3,HIGH,136,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-5963,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,470,1,HIGH,34,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5968,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,278,5,HIGH,69,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-5970,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,147,1,HIGH,81,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5980,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,306,1,HIGH,187,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-5984,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,230,4,HIGH,13,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-5996,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,589,3,HIGH,130,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6004,LULU-CLT-02,Chicken 1kg,Meat,Suguna,416,1,HIGH,97,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6011,LULU-CLT-02,Paneer 200g,Dairy,Milma,580,2,HIGH,79,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6013,LULU-CLT-02,Chicken 1kg,Meat,Suguna,401,3,HIGH,37,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6031,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,182,5,HIGH,61,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6032,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,161,1,HIGH,94,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6051,LULU-CLT-02,Paneer 200g,Dairy,Milma,163,2,HIGH,172,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6057,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,107,4,HIGH,45,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6060,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,305,1,HIGH,110,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6070,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,127,3,HIGH,128,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6072,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,428,2,HIGH,31,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6081,LULU-CLT-01,Paneer 200g,Dairy,Milma,402,2,HIGH,169,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6107,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,559,2,HIGH,113,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6111,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,263,2,HIGH,191,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6113,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,444,1,HIGH,137,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6124,LULU-CLT-01,Bread Loaf,Bakery,Modern,383,1,HIGH,29,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6130,LULU-TVM-01,Chicken 1kg,Meat,Suguna,446,2,HIGH,186,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6149,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,382,3,HIGH,76,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6159,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,105,1,HIGH,14,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6171,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,154,3,HIGH,26,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6172,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,114,2,HIGH,62,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6191,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,190,4,HIGH,104,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6192,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,275,1,HIGH,16,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6195,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,273,1,HIGH,59,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6203,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,118,5,HIGH,104,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6213,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,569,2,HIGH,125,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6215,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,466,3,HIGH,185,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6228,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,449,4,HIGH,120,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6232,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,392,2,HIGH,195,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6235,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,183,3,HIGH,12,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6237,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,200,5,HIGH,86,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6243,LULU-CLT-01,Bread Loaf,Bakery,Modern,362,4,HIGH,168,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6277,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,194,1,HIGH,148,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6278,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,514,3,HIGH,136,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6309,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,438,4,HIGH,121,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6311,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,372,1,HIGH,156,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6323,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,448,5,HIGH,93,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6334,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,591,3,HIGH,186,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6341,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,556,5,HIGH,182,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6353,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,352,3,HIGH,176,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6354,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,404,2,HIGH,70,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6368,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,419,2,HIGH,173,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6372,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,463,2,HIGH,110,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6373,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,201,4,HIGH,112,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6385,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,193,5,HIGH,97,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6395,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,469,3,HIGH,131,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6417,LULU-CLT-02,Bread Loaf,Bakery,Modern,264,1,HIGH,151,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6429,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,448,3,HIGH,113,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6435,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,141,1,HIGH,116,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6450,LULU-CLT-02,Paneer 200g,Dairy,Milma,587,5,HIGH,86,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6456,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,164,4,HIGH,56,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6469,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,109,1,HIGH,137,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6471,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,368,4,HIGH,117,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6475,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,480,3,HIGH,86,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6478,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,451,2,HIGH,146,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6486,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,531,1,HIGH,98,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6504,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,529,4,HIGH,134,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6506,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,182,3,HIGH,163,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6518,LULU-TVM-01,Paneer 200g,Dairy,Milma,409,5,HIGH,156,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6526,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,348,4,HIGH,70,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6528,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,389,3,HIGH,197,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6533,LULU-TVM-01,Bread Loaf,Bakery,Modern,148,2,HIGH,77,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6540,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,150,3,HIGH,83,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6553,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,371,5,HIGH,139,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6559,LULU-CLT-02,Paneer 200g,Dairy,Milma,319,5,HIGH,72,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6570,LULU-CLT-02,Bread Loaf,Bakery,Modern,489,4,HIGH,72,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6573,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,177,2,HIGH,102,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6598,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,380,4,HIGH,106,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6605,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,592,1,HIGH,50,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6635,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,257,1,HIGH,123,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6653,LULU-CLT-02,Chicken 1kg,Meat,Suguna,473,2,HIGH,114,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6658,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,294,5,HIGH,78,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6676,LULU-TVM-01,Chicken 1kg,Meat,Suguna,326,5,HIGH,118,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6694,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,596,4,HIGH,191,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6729,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,279,3,HIGH,104,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6740,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,315,2,HIGH,120,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6751,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,408,2,HIGH,63,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6764,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,216,2,HIGH,118,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6770,LULU-CLT-02,Paneer 200g,Dairy,Milma,188,3,HIGH,42,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6777,LULU-TVM-01,Paneer 200g,Dairy,Milma,310,2,HIGH,52,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6780,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,395,4,HIGH,150,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6797,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,306,1,HIGH,92,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6805,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,116,1,HIGH,150,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6811,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,260,5,HIGH,77,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6812,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,210,1,HIGH,18,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6835,LULU-TVM-01,Paneer 200g,Dairy,Milma,188,4,HIGH,101,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6864,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,577,2,HIGH,45,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6878,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,123,3,HIGH,109,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6895,LULU-CLT-02,Paneer 200g,Dairy,Milma,169,4,HIGH,91,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6901,LULU-CLT-02,Chicken 1kg,Meat,Suguna,326,2,HIGH,87,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6913,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,349,4,HIGH,162,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-6928,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,401,1,HIGH,15,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6941,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,314,3,HIGH,79,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-6946,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,144,1,HIGH,84,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6949,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,563,2,HIGH,16,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6956,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,238,2,HIGH,66,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6967,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,449,1,HIGH,27,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6972,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,583,5,HIGH,160,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-6977,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,340,1,HIGH,82,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6990,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,296,2,HIGH,164,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6997,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,496,1,HIGH,66,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-6998,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,373,3,HIGH,41,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7000,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,376,1,HIGH,48,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7024,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,462,2,HIGH,171,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7049,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,133,2,HIGH,114,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7050,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,332,1,HIGH,158,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7058,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,390,1,HIGH,47,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7070,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,125,5,HIGH,48,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7091,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,211,3,HIGH,173,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7113,LULU-CLT-02,Milma Curd 500g,Dairy,Milma,217,1,HIGH,141,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7136,LULU-CLT-01,Paneer 200g,Dairy,Milma,282,2,HIGH,167,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7141,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,479,2,HIGH,187,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7146,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,439,1,HIGH,139,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7155,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,169,2,HIGH,33,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7162,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,396,2,HIGH,32,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7167,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,215,1,HIGH,24,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7169,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,250,5,HIGH,123,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7170,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,126,1,HIGH,146,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7179,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,478,1,HIGH,193,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7209,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,448,3,HIGH,176,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7221,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,182,3,HIGH,137,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7230,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,348,5,HIGH,107,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7241,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,558,3,HIGH,16,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7242,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,336,4,HIGH,194,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7244,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,179,1,HIGH,127,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7277,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,256,2,HIGH,168,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7278,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,354,5,HIGH,200,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7286,LULU-CLT-02,Paneer 200g,Dairy,Milma,385,3,HIGH,151,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7295,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,338,2,HIGH,47,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7303,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,126,2,HIGH,45,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7321,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,162,1,HIGH,70,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7331,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,112,4,HIGH,12,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7333,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,383,2,HIGH,165,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7347,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,303,3,HIGH,196,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7359,LULU-CLT-01,Atta 10kg,Grocery,Aashirvaad,246,1,HIGH,81,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7363,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,504,4,HIGH,94,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7411,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,530,5,HIGH,62,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7425,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,290,1,HIGH,157,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7433,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,189,3,HIGH,71,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7440,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,311,1,HIGH,118,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7445,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,270,3,HIGH,121,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7466,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,343,1,HIGH,29,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7471,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,345,2,HIGH,92,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7488,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,496,4,HIGH,109,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7506,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,298,2,HIGH,48,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7518,LULU-TVM-01,Paneer 200g,Dairy,Milma,487,2,HIGH,198,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7549,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,202,1,HIGH,100,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7560,LULU-CLT-01,Chicken 1kg,Meat,Suguna,570,3,HIGH,60,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7565,LULU-TVM-01,Chicken 1kg,Meat,Suguna,187,5,HIGH,90,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7570,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,204,4,HIGH,85,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7598,LULU-KOCHI-01,Milma Curd 500g,Dairy,Milma,399,3,HIGH,151,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7604,LULU-CLT-01,Paneer 200g,Dairy,Milma,219,3,HIGH,109,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7608,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,253,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7622,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,515,1,HIGH,75,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7645,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,253,1,HIGH,154,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7702,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,422,3,HIGH,145,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7705,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,317,2,HIGH,36,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7747,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,533,2,HIGH,46,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7757,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,504,3,HIGH,12,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7760,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,392,1,HIGH,117,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7765,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,237,3,HIGH,181,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7781,LULU-CLT-02,Paneer 200g,Dairy,Milma,536,1,HIGH,164,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7787,LULU-CLT-02,Bread Loaf,Bakery,Modern,135,2,HIGH,198,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7788,LULU-CLT-01,Chicken 1kg,Meat,Suguna,321,4,HIGH,48,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7796,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,401,1,HIGH,33,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7820,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,436,1,HIGH,107,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7843,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,542,1,HIGH,52,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7874,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,446,4,HIGH,76,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7880,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,145,2,HIGH,43,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7889,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,178,2,HIGH,95,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7915,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,595,1,HIGH,172,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7925,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,586,2,HIGH,19,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7931,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,157,4,HIGH,123,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7938,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,262,2,HIGH,69,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7943,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,171,4,HIGH,68,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-7950,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,322,5,HIGH,161,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7953,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,539,5,HIGH,33,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7954,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,363,2,HIGH,193,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7963,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,330,3,HIGH,49,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-7966,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,481,5,HIGH,58,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-7967,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,442,2,HIGH,20,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-7980,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,170,1,HIGH,38,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8002,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,167,1,HIGH,46,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8004,LULU-CLT-01,Bread Loaf,Bakery,Modern,338,2,HIGH,97,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8009,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,229,1,HIGH,82,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8024,LULU-KOCHI-01,Banana Chips 1kg,Snacks,Local Kerala,529,1,HIGH,27,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8032,LULU-CLT-02,Paneer 200g,Dairy,Milma,169,1,HIGH,50,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8057,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,285,4,HIGH,195,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8060,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,470,1,HIGH,68,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8065,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,579,3,HIGH,135,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8074,LULU-CLT-02,Chicken 1kg,Meat,Suguna,488,1,HIGH,113,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8078,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,216,3,HIGH,145,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8079,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,123,5,HIGH,37,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8080,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,443,4,HIGH,81,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8102,LULU-KOCHI-02,Banana Chips 1kg,Snacks,Local Kerala,357,2,HIGH,188,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8111,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,347,2,HIGH,54,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8114,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,444,5,HIGH,28,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8124,LULU-TVM-01,Bread Loaf,Bakery,Modern,439,5,HIGH,45,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8141,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,128,5,HIGH,66,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8143,LULU-KOCHI-01,Mango 1kg,Fruits,Local Farm,542,2,HIGH,153,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8150,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,414,2,HIGH,47,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8170,LULU-CLT-01,Lulu Gold Coin,Jewellery,Lulu Gold,146,1,HIGH,167,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8174,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,344,5,HIGH,169,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8180,LULU-KOCHI-02,Basmati Rice 5kg,Grocery,India Gate,438,1,HIGH,44,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8182,LULU-CLT-02,Atta 10kg,Grocery,Aashirvaad,246,1,HIGH,181,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8189,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,221,1,HIGH,105,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8190,LULU-CLT-01,Paneer 200g,Dairy,Milma,268,5,HIGH,109,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8209,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,421,3,HIGH,31,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8213,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,452,5,HIGH,43,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8245,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,410,2,HIGH,73,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8247,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,591,4,HIGH,165,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8250,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,575,5,HIGH,132,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8266,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,347,3,HIGH,72,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8281,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,448,1,HIGH,137,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8300,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,437,3,HIGH,153,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8318,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,479,4,HIGH,32,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8325,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,444,3,HIGH,109,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8337,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,115,4,HIGH,83,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8342,LULU-CLT-01,Milma Curd 500g,Dairy,Milma,594,1,HIGH,183,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8347,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,189,3,HIGH,13,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8353,LULU-KOCHI-01,Paneer 200g,Dairy,Milma,179,4,HIGH,31,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8373,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,179,5,HIGH,101,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8408,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,513,5,HIGH,115,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8410,LULU-CLT-01,Dates 500g,Dry Fruits,Lulu Import,202,5,HIGH,43,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8442,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,270,3,HIGH,94,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8457,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,432,2,HIGH,162,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8458,LULU-CLT-01,Bread Loaf,Bakery,Modern,221,4,HIGH,42,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8466,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,479,2,HIGH,172,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8478,LULU-KOCHI-02,Atta 10kg,Grocery,Aashirvaad,177,5,HIGH,176,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8479,LULU-TVM-01,Bread Loaf,Bakery,Modern,108,5,HIGH,171,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8489,LULU-KOCHI-01,Chicken 1kg,Meat,Suguna,574,3,HIGH,193,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8491,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,591,4,HIGH,82,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8500,LULU-CLT-02,Chicken 1kg,Meat,Suguna,164,2,HIGH,168,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8516,LULU-CLT-02,Basmati Rice 5kg,Grocery,India Gate,172,2,HIGH,79,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8525,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,220,4,HIGH,112,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8530,LULU-CLT-01,Bread Loaf,Bakery,Modern,545,1,HIGH,158,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8533,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,230,2,HIGH,96,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8541,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,440,2,HIGH,89,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8557,LULU-CLT-01,Basmati Rice 5kg,Grocery,India Gate,398,5,HIGH,116,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8574,LULU-TVM-01,Bread Loaf,Bakery,Modern,471,2,HIGH,59,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8576,LULU-TVM-01,Dates 500g,Dry Fruits,Lulu Import,379,3,HIGH,39,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8586,LULU-CLT-01,Banana Chips 1kg,Snacks,Local Kerala,522,1,HIGH,38,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8593,LULU-KOCHI-02,Chicken 1kg,Meat,Suguna,465,1,HIGH,152,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8605,LULU-TVM-01,Atta 10kg,Grocery,Aashirvaad,143,5,HIGH,129,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8608,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,132,5,HIGH,112,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8623,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,480,5,HIGH,88,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8627,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,542,4,HIGH,171,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8640,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,162,4,HIGH,121,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8685,LULU-CLT-02,Mango 1kg,Fruits,Local Farm,101,1,HIGH,145,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8694,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,213,5,HIGH,24,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8696,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,103,2,HIGH,198,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8702,LULU-TVM-01,Chicken 1kg,Meat,Suguna,136,3,HIGH,12,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8710,LULU-KOCHI-01,Atta 10kg,Grocery,Aashirvaad,120,1,HIGH,99,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8727,LULU-CLT-02,Bread Loaf,Bakery,Modern,408,3,HIGH,139,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8748,LULU-KOCHI-01,Dates 500g,Dry Fruits,Lulu Import,392,3,HIGH,96,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8771,LULU-KOCHI-02,Mango 1kg,Fruits,Local Farm,148,4,HIGH,48,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8774,LULU-TVM-01,Mango 1kg,Fruits,Local Farm,117,2,HIGH,190,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8777,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,101,5,HIGH,22,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8778,LULU-TVM-01,Basmati Rice 5kg,Grocery,India Gate,442,1,HIGH,41,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8784,LULU-TVM-01,Milma Curd 500g,Dairy,Milma,423,1,HIGH,184,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8785,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,523,3,HIGH,43,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8805,LULU-CLT-02,Lulu Gold Coin,Jewellery,Lulu Gold,312,3,HIGH,26,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8812,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,163,1,HIGH,197,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8856,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,488,2,HIGH,16,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8871,LULU-KOCHI-02,Lulu Gold Coin,Jewellery,Lulu Gold,271,1,HIGH,14,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8904,LULU-CLT-01,Chicken 1kg,Meat,Suguna,382,2,HIGH,34,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8908,LULU-KOCHI-01,Lulu Gold Coin,Jewellery,Lulu Gold,170,5,HIGH,159,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8915,LULU-TVM-01,Lulu Gold Coin,Jewellery,Lulu Gold,195,3,HIGH,182,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8916,LULU-CLT-02,Dates 500g,Dry Fruits,Lulu Import,131,3,HIGH,59,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8924,LULU-TVM-01,Banana Chips 1kg,Snacks,Local Kerala,433,1,HIGH,118,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8942,LULU-KOCHI-02,Paneer 200g,Dairy,Milma,577,3,HIGH,144,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8958,LULU-CLT-01,Mango 1kg,Fruits,Local Farm,300,5,HIGH,32,2026-09-20,40% OFF,Sell in Store
+LULU-ORD-8967,LULU-KOCHI-01,Basmati Rice 5kg,Grocery,India Gate,359,2,HIGH,181,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8968,LULU-CLT-02,Banana Chips 1kg,Snacks,Local Kerala,429,3,HIGH,129,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8970,LULU-KOCHI-02,Dates 500g,Dry Fruits,Lulu Import,491,4,HIGH,31,2026-09-19,40% OFF,Sell in Store
+LULU-ORD-8977,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,527,1,HIGH,158,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8979,LULU-KOCHI-02,Bread Loaf,Bakery,Modern,131,2,HIGH,78,2026-09-17,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8980,LULU-KOCHI-02,Milma Curd 500g,Dairy,Milma,517,3,HIGH,145,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8991,LULU-TVM-01,Paneer 200g,Dairy,Milma,283,3,HIGH,153,2026-09-18,40% OFF,Donate to Food Bank
+LULU-ORD-8994,LULU-KOCHI-01,Bread Loaf,Bakery,Modern,456,1,HIGH,49,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
+LULU-ORD-8999,LULU-CLT-02,Bread Loaf,Bakery,Modern,281,1,HIGH,17,2026-09-16,70% OFF - Flash Sale,Donate to Food Bank
